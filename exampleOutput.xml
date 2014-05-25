@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<repices>
+	<repice>
+		<id>
+			1
+		</id>
+		<category>
+			main meal
+		</category>
+		<categoryId>
+			3
+		</categoryId>
+		<title>
+			cookies on milk
+		</title>
+		<description>
+			mix and pour to bigger bowl, heat up in 80C
+		</description>
+		<ingridients>
+			<ingridient>
+				<id>
+					1
+				</id>
+				<name>
+					milk
+				</name>
+				<category>
+					dairy
+				</category>
+				<unit>
+					liter
+				</unit>
+				<amount>
+					1
+				</amount>
+			</ingridient>
+			<ingridient>
+				...
+			</ingridient>
+			<ingridient>
+				...
+			</ingridient>
+		</ingridients>
+		<picture>
+			<fileName>
+				cookie
+			</fileName>
+			<extension>
+				png
+			</extension>
+			<binaryData>
+				anignweuint938n2t9834toivm3892j98jv4329j289th992hj9t2938jt9j2t329rj293=jh9249tjv49jy
+				eianfgienqouvh8rt=238th3tv3t489JVHJT39JT93HJ9jet0j3vt8j8J9JIT9J45=3Jj9tj39tdfk3t9j40
+				anignweuint938n2t9834toivm3892j98jv4329j289th992hj9t2938jt9j2t329rj293tjh9249tjv49jy
+				eianfgien=ouvh8rth238th3tv3t=89JVHJT39JT93HJ9jet0j3vt8j8J9JIT=J4593Jj9tj39tdfk3t9j40
+				anignweuint938n2t9834toivm3892j98jv4329j289th992hj9t2938jt9j2t329rj293tjh9249tjv49jy
+				eianfgienqouvh8rth238th3tv3t48=JVHJT39JT93HJ9jet0j3vt8j8J9JIT9J4593Jj9=j39tdfk3t9j40
+			</binaryData>
+		</picture>
+	</repice>
+	<repice>
+		...
+	</repice>
+	<repice>
+		...
+	</repice>
+</repices>
